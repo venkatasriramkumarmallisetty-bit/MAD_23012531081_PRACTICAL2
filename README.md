@@ -1,5 +1,7 @@
 Android Activity Lifecycle Demonstration
+
 This project is a simple Android application created to demonstrate the fundamental lifecycle of an Android Activity and display a basic UI screen.
+
 
 AIM
 The main goal of this application is to showcase the different states of an Activity's lifecycle. It does this by displaying log messages, toasts, and snackbars for each lifecycle callback method (onCreate, onStart, onResume, onPause, onStop, onRestart, and onDestroy).
